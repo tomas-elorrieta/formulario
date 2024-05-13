@@ -1,0 +1,10 @@
+form, h1, h2 {
+    width: 60%;
+    margin: 30px auto;}
+
+div {
+    width: 30%;
+    display: inline-block;}
+
+.notificacion-label{
+    width: 50%;}
